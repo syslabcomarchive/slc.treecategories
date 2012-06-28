@@ -11,7 +11,7 @@
         />
 
     <browser:page
-        for="Products.ATContentTypes.content.base.ATCTContent"
+        for="*"
         name="at_widget_inlinetree"
         template="inlinetree.pt"
         permission="zope2.View"
