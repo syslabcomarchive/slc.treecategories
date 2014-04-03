@@ -3,3 +3,4 @@ include/
 lib/
 *.mo
 *.pyc
+*egg-info
